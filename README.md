@@ -5,7 +5,7 @@ I am Bart Evers (online usually going by Callidus) a full-stack developer from t
 - 💻 I’m currently working at [`Exivity`] as a DevOps engineer and at [`DMP`] as a full-stack developer
 - 🌱 I’m currently studying at [`Windesheim University of Applied Sciences`]
 - 😄 Pronouns: anything you want except it
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a huge space(flight) nerd
 
 #### 💬 Programming languages I know
 
@@ -17,9 +17,9 @@ I am Bart Evers (online usually going by Callidus) a full-stack developer from t
 
 #### 📫 How to reach me
 
-- ![discord](): Callidus#3141
-- ![telegram](): CallidusUmbra
-- ![twitter](): CallidusUmbra
+- ![discord](https://raw.githubusercontent.com/Baev1/Baev1/master/logo-discord.png): Callidus#3141
+- ![telegram](https://raw.githubusercontent.com/Baev1/Baev1/master/logo-telegram.png): CallidusUmbra
+- ![twitter](https://raw.githubusercontent.com/Baev1/Baev1/master/logo-twitter.png): CallidusUmbra
 - 📧: bart1evers@gmail.com or callidusumbra@gmail.com
 
 #### 🔭 Projects I work on
@@ -31,19 +31,20 @@ I tend to stick with a few projects till they are done, see the ones I am curren
 - [`telexide`] - a rust library for making it easy to create a telegram bot
 
 <!----------------- LINKS --------------->
-[`TypeScript`]:                                https://www.typescriptlang.org/
-[`Go`]:                                        https://golang.org/
-[`Rust`]:                                      https://www.rust-lang.org/
-[`React`]:                                     https://reactjs.org/
-[`Python`]:                                    https://www.python.org/
-[`PHP`]:                                       https://www.php.net/
-[`JAVA`]:                                      https://www.oracle.com/java/
-[`C#`]:                                        https://docs.microsoft.com/en-us/dotnet/csharp/
-[`DMP`]:                                       https://www.dm-p.com/
-[`Exivity`]:                                   https://exivity.com/
-[`Windesheim University of Applied Sciences`]: https://www.windesheim.nl/
-[`Discord`]:                                   https://discord.com/
-[`Gay Geeks`]:                                 https://gaygeeks.gg/
-[`OKTO`]:                                      https://github.com/Baev1/okto
-[`telexide`]:                                  https://github.com/Baev1/telexide
-[`Auttaja`]:                                   https://github.com/auttaja
+
+[`typescript`]: https://www.typescriptlang.org/
+[`go`]: https://golang.org/
+[`rust`]: https://www.rust-lang.org/
+[`react`]: https://reactjs.org/
+[`python`]: https://www.python.org/
+[`php`]: https://www.php.net/
+[`java`]: https://www.oracle.com/java/
+[`c#`]: https://docs.microsoft.com/en-us/dotnet/csharp/
+[`dmp`]: https://www.dm-p.com/
+[`exivity`]: https://exivity.com/
+[`windesheim university of applied sciences`]: https://www.windesheim.nl/
+[`discord`]: https://discord.com/
+[`gay geeks`]: https://gaygeeks.gg/
+[`okto`]: https://github.com/Baev1/okto
+[`telexide`]: https://github.com/Baev1/telexide
+[`auttaja`]: https://github.com/auttaja
