@@ -9,7 +9,7 @@ I am Bart Evers (online usually going by Callidus) a full-stack developer from t
 
 #### 💬 Programming languages I know
 
-- [`Rust`]: Rust is my favourite language and one I most often for my own projects and at [`DMP`]
+- [`Rust`]: Rust is my favourite language and the one I use most often for my own projects and at [`DMP`]
 - [`Go`]: Go is another of my favourites and one I have had experience working with at [`Auttaja`]
 - [`Typescript`]: I have experience working with Typescript and [`React`] at [`Exivity`]
 - [`Python`]: Python was my first language and I have used it at both Exivity and Auttaja
