@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Bart Evers (online usually going by Callidus) a full-stack developer from the Netherlands, who also does DevOps work.
+I am Bart (usually going by Calli) a full-stack developer from the Netherlands, who also does DevOps work.
 
 - 💻 I’m currently working at [`Exivity`] as a DevOps engineer and at [`DMP`] as a full-stack developer
 - 🌱 I’m currently studying at [`Windesheim University of Applied Sciences`]
