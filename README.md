@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Bart (usually going by Calli) a full-stack developer from the Netherlands, who also does DevOps work.
+I am Calli a full-stack developer from the Netherlands, who also does DevOps work.
 
 - 💻 I’m currently working at [`Exivity`] as a DevOps engineer and at [`DMP`] as a full-stack developer
 - 🌱 I’m currently studying at [`Windesheim University of Applied Sciences`]
-- 😄 Pronouns: anything you want except it
+- 😄 Pronouns: they/them or she/her
 - ⚡ Fun fact: I am a huge space(flight) nerd
 
 #### 💬 Programming languages I know
