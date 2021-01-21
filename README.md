@@ -17,8 +17,8 @@ I am Calli a full-stack developer from the Netherlands, who also does DevOps wor
 
 #### 📫 How to reach me
 
-- ![discord](https://raw.githubusercontent.com/Baev1/Baev1/master/logo-discord.png): Callidus#3141
-- ![telegram](https://raw.githubusercontent.com/Baev1/Baev1/master/logo-telegram.png): CallidusUmbra
+- ![discord](https://raw.githubusercontent.com/Baev1/Baev1/master/logo-discord.png): Calli#3141
+- ![telegram](https://raw.githubusercontent.com/Baev1/Baev1/master/logo-telegram.png): CalliUmbra
 - ![twitter](https://raw.githubusercontent.com/Baev1/Baev1/master/logo-twitter.png): CallidusUmbra
 - 📧: bart1evers@gmail.com or callidusumbra@gmail.com
 
