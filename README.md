@@ -17,9 +17,9 @@ I am Calli a full-stack developer from the Netherlands, who also does DevOps wor
 
 #### 📫 How to reach me
 
-- ![discord](https://raw.githubusercontent.com/Baev1/Baev1/master/logo-discord.png): Calli#3141
-- ![telegram](https://raw.githubusercontent.com/Baev1/Baev1/master/logo-telegram.png): CalliUmbra
-- ![twitter](https://raw.githubusercontent.com/Baev1/Baev1/master/logo-twitter.png): CallidusUmbra
+- ![discord](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-discord.png): Calli#3141
+- ![telegram](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-telegram.png): CalliEve
+- ![twitter](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-twitter.png): Calli_Dev
 - 📧: bart1evers@gmail.com or callidusumbra@gmail.com
 
 #### 🔭 Projects I work on
@@ -45,6 +45,6 @@ I tend to stick with a few projects till they are done, see the ones I am curren
 [`windesheim university of applied sciences`]: https://www.windesheim.nl/
 [`discord`]: https://discord.com/
 [`gay geeks`]: https://gaygeeks.gg/
-[`okto`]: https://github.com/Baev1/okto
-[`telexide`]: https://github.com/Baev1/telexide
+[`okto`]: https://github.com/CalliEve/okto
+[`telexide`]: https://github.com/CalliEve/telexide
 [`auttaja`]: https://github.com/auttaja
