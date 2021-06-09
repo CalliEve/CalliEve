@@ -4,7 +4,7 @@ I am Calli a full-stack developer from the Netherlands, who also does DevOps wor
 
 - 💻 I’m currently working at [`Exivity`] as a DevOps engineer and at [`DMP`] as a full-stack developer
 - 🌱 I’m currently studying at [`Windesheim University of Applied Sciences`]
-- 😄 Pronouns: they/them or she/her
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a huge space(flight) nerd
 
 #### 💬 Programming languages I know
