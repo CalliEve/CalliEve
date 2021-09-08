@@ -6,7 +6,7 @@ I am Calli a full-stack developer from the Netherlands, who also does DevOps wor
 - 🌱 I’m currently studying at the [`Eindhoven University of Technology`] for a pre-master minor, I am doing my major at [`Windesheim University of Applied Sciences`]
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a huge space(flight) nerd
-- 📝 See also my **[`GitLab`]** and my website [`calli.dev`]
+- 📝 See also my [`GitLab`] and my website [`calli.dev`]
 
 #### 💬 Programming languages I know
 
@@ -18,10 +18,10 @@ I am Calli a full-stack developer from the Netherlands, who also does DevOps wor
 
 #### 📫 How to reach me
 
-- ![discord](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-discord.png): Calli#3141
-- ![telegram](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-telegram.png): CalliEve
-- ![twitter](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-twitter.png): Calli_Dev
-- 📧: calli.devs@gmail.com
+- ![discord](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-discord.png) Calli#3141
+- ![telegram](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-telegram.png) CalliEve
+- ![twitter](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-twitter.png) Calli_Dev
+- 📧 calli.devs@gmail.com
 
 #### 🔭 Projects I work on
 
