@@ -3,9 +3,10 @@
 I am Calli a full-stack developer from the Netherlands, who also does DevOps work.
 
 - 💻 I’m currently working at [`Exivity`] as a DevOps engineer and at [`DMP`] as a full-stack developer
-- 🌱 I’m currently studying at [`Windesheim University of Applied Sciences`]
+- 🌱 I’m currently studying at the [`Eindhoven University of Technology`] for a pre-master minor, I am doing my major at [`Windesheim University of Applied Sciences`]
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a huge space(flight) nerd
+- 📝 See also my **[`GitLab`]** and my website [`calli.dev`]
 
 #### 💬 Programming languages I know
 
@@ -20,7 +21,7 @@ I am Calli a full-stack developer from the Netherlands, who also does DevOps wor
 - ![discord](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-discord.png): Calli#3141
 - ![telegram](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-telegram.png): CalliEve
 - ![twitter](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-twitter.png): Calli_Dev
-- 📧: bart1evers@gmail.com or callidusumbra@gmail.com
+- 📧: calli.devs@gmail.com
 
 #### 🔭 Projects I work on
 
@@ -43,6 +44,9 @@ I tend to stick with a few projects till they are done, see the ones I am curren
 [`dmp`]: https://www.dm-p.com/
 [`exivity`]: https://exivity.com/
 [`windesheim university of applied sciences`]: https://www.windesheim.nl/
+[`Eindhoven University of Technology`]: https://www.tue.nl/en/
+[`GitLab`]: https://gitlab.com/CalliEve
+[`calli.dev`]: https://calli.dev
 [`discord`]: https://discord.com/
 [`gay geeks`]: https://gaygeeks.gg/
 [`okto`]: https://github.com/CalliEve/okto
