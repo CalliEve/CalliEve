@@ -21,7 +21,7 @@ I am Calli a full-stack developer from the Netherlands, who also does DevOps wor
 - ![discord](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-discord.png) Calli#3141
 - ![telegram](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-telegram.png) CalliEve
 - ![twitter](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-twitter.png) Calli_Dev
-- 📧 me@calli.com
+- 📧 me@calli.dev
 
 #### 🔭 Projects I work on
 
