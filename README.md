@@ -3,18 +3,19 @@
 I am Calli a full-stack developer from the Netherlands, who also does DevOps work.
 
 - 💻 I’m currently working at [`Exivity`] as a DevOps engineer and at [`DMP`] as a full-stack developer
-- 🌱 I’m currently studying at the [`Eindhoven University of Technology`] for a pre-master minor, I am doing my bachelor at [`Windesheim University of Applied Sciences`]
+- 🌱 I’m currently studying at the [`Eindhoven University of Technology`] for my CSE master
+- 🎓 I have graduated with a Computer Science bachelor degree from [`Windesheim University of Applied Sciences`], including a pre-master minor from the [`TU/e`]
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a huge space(flight) nerd
 - 📝 See also my [`GitLab`] and my website [`calli.dev`]
 
 #### 💬 Programming languages I know
 
-- [`Rust`]: Rust is my favourite language and the one I use most often for my own projects and at [`DMP`]
-- [`Go`]: Go is another of my favourites and one I have had experience working with at [`Auttaja`]
+- [`Rust`]: Rust is my favourite language and the one I use most often for my own projects and at both [`Exivity`] and [`DMP`]
+- [`Go`]: Go is another of my favourites and one I have had experience working with it at [`Exivity`] and with [`Auttaja`]
 - [`Typescript`]: I have experience working with Typescript and [`React`] at [`Exivity`]
-- [`Python`]: Python was my first language and I have used it at both Exivity and Auttaja
-- others: I have used [`PHP`], [`JAVA`] and [`C#`] during my studies at Windesheim and am currently learning [`Haskell`]
+- [`Python`]: Python was my first language and I have used it at both [`Exivity`] and [`Auttaja`]
+- others: I have used [`PHP`], [`JAVA`] and [`C#`] during my studies at [`Windesheim`] and I have used [`Haskell`] for personal projects
 
 #### 📫 How to reach me
 
@@ -44,8 +45,10 @@ I tend to stick with a few projects till they are done, see the ones I am curren
 [`haskell`]: https://www.haskell.org/
 [`dmp`]: https://www.dm-p.com/
 [`exivity`]: https://exivity.com/
-[`windesheim university of applied sciences`]: https://www.windesheim.nl/
+[`Windesheim University of Applied Sciences`]: https://www.windesheim.nl/
+[`Windesheim`]: https://www.windesheim.nl/
 [`Eindhoven University of Technology`]: https://www.tue.nl/en/
+[`TU/e`]: https://www.tue.nl/en/
 [`GitLab`]: https://gitlab.com/CalliEve
 [`calli.dev`]: https://calli.dev
 [`discord`]: https://discord.com/
