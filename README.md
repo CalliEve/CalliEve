@@ -5,15 +5,14 @@ I am Calli a full-stack developer from the Netherlands, who also does DevOps wor
 - 💻 I’m currently working at [`Exivity`] as a DevOps engineer and at [`DMP`] as a full-stack developer
 - 🌱 I’m currently studying at the [`Eindhoven University of Technology`] for my CSE master
 - 🎓 I have graduated with a Computer Science bachelor degree from [`Windesheim University of Applied Sciences`], including a pre-master minor from the [`TU/e`]
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a huge space(flight) nerd
 - 📝 See also my [`GitLab`] and my website [`calli.dev`]
 
 #### 💬 Programming languages I know
 
 - [`Rust`]: Rust is my favourite language and the one I use most often for my own projects and at both [`Exivity`] and [`DMP`]
-- [`Go`]: Go is another of my favourites and one I have had experience working with it at [`Exivity`] and with [`Auttaja`]
-- [`Typescript`]: I have experience working with Typescript and [`React`] at [`Exivity`]
+- [`Typescript`]: I have experience working with Typescript at [`Gay Geeks`] and Typescript with [`React`] at [`Exivity`]
+- [`Go`]: Go is another language I know and one I have had experience working with at [`Exivity`] and with [`Auttaja`]
 - [`Python`]: Python was my first language and I have used it at both [`Exivity`] and [`Auttaja`]
 - others: I have used [`PHP`], [`JAVA`] and [`C#`] during my studies at [`Windesheim`] and I have used [`Haskell`] for personal projects
 
@@ -21,7 +20,6 @@ I am Calli a full-stack developer from the Netherlands, who also does DevOps wor
 
 - ![discord](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-discord.png) Calli#3141
 - ![telegram](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-telegram.png) CalliEve
-- ![twitter](https://raw.githubusercontent.com/CalliEve/CalliEve/master/logo-twitter.png) Calli_Dev
 - 📧 me@calli.dev
 
 #### 🔭 Projects I work on
